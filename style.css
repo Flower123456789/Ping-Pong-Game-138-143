@@ -1,0 +1,35 @@
+
+
+.heading{
+    width: 100%;
+    text-align: center;
+}
+
+
+.heading h3{
+    display: inline;
+}
+
+
+
+.heading button{
+    
+    border: 1px solid white;
+}
+
+
+#start , #status{
+    font-size: 22px;
+    text-align: center;
+}
+
+#Ins{
+    float: right;
+}
+
+
+canvas{
+    border:5px solid white ;
+    box-shadow: 5px 5px 5px blue;
+    margin-top: 160px;
+  }
